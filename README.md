@@ -12,3 +12,4 @@ as well as one of the most common technologies and tools, with which the course 
 builds students' understanding of the upcoming professional modules and the knowledge
 they will acquire from them to become successful software developers.
 
+[Programming Fundamentals with JavaScript - May 2022 - Certificate.pdf](https://github.com/dechevgfx/javascriptFundamentalsSoftUni/files/9632096/Programming.Fundamentals.with.JavaScript.-.May.2022.-.Certificate.pdf)
